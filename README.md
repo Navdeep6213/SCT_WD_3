@@ -63,6 +63,6 @@ The Quiz Game Application allows users to:
 
 ## Author
 
-**Piyush Tyagi**
+**Navdeep Sharma**
 
 SkillCraft Technology - Web Development Intern
